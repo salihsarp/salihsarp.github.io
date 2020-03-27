@@ -21,4 +21,4 @@ Following topics are the interested areas that I am studying on:
    * Electric Vehicles (EV)
    * IoT
 
-Please check out my [research](http://salihsarp.com/research/), [publications](http://salihsarp.com/publications/), and [skills](http://salihsarp.com/mytoolset/) for more information about me!
+Please check out my [research](http://salihsarp.com/research/) and [publications](http://salihsarp.com/publications/), for more information about me!
