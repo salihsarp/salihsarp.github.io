@@ -14,7 +14,7 @@ _**In Progress**_
 
 ## Conference Proceedings
 _**Under Review**_
-1. **Sarp, S.**, Kuzlu, M., Cetin M., Sazara C., Guler O. (2020). _Detecting Floodwater on Roadways from Image Data Using Mask-R-CNN_ The International Conference on Intelligent Transportation Systems (ITSC 2020) 
+1. **Sarp S.**, Kuzlu, M., Cetin M., Sazara C., Guler O. (2020). _Detecting Floodwater on Roadways from Image Data Using Mask-R-CNN_ The International Conference on Intelligent Transportation Systems (ITSC 2020) 
 
 _**Published/Accepted**_
 1. Kuzlu M., **Sarp S.**, Pipattanasomporn M., Cali U. (2020) _Realizing the Potential of Blockchain Technology in Smart Grid Applications._ Innovative Smart Grid Technologies (ISGT 2020)
