@@ -6,13 +6,13 @@ main:
     url: /publications/
   - title: "Research & Projects"
     url: /research/
-  - title: "RShiny Showcase"
-    url: /RShiny/
+#  - title: "RShiny Showcase"
+#   url: /RShiny/
   - title: "Posts"
     url: /posts/
 #  - title: "Updates"
 #    url: /updates/
-  - title: "My Toolset"
-    url: /mytoolset/
-  - title: "Useful Links"
-    url: /usefullinks/
+#  - title: "My Toolset"
+#    url: /mytoolset/
+#  - title: "Useful Links"
+#    url: /usefullinks/
