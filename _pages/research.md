@@ -32,6 +32,18 @@ The project will develop supplemental educational modules aligned with industry 
 * Hands on Arduino applications with Internet of Things
 * Marine ROV MATE project design and implementation mentoring
 
+
+**_Project 3:_** Synthetic Medical Image Synthesis with GAN Algorithms
+
+* A custom GAN algorithm is implemented 
+* Synthetic Wound image generation for patient privacy
+
+
+**_Project 3:_** Explainable AI applications on Medical Image Synthesis : Wound development stages
+
+* Explainable AI tools such as LIME and Activation atlases applied to wound development model
+* Explainable AI methods are compared comprehensively in Healthcare. 
+
 ##  Completed Projects:
 
 ### 2020
